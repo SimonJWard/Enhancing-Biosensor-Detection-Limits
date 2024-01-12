@@ -30,10 +30,10 @@ Ward, S. J., Cao, T., Chang, C., & Weiss, S. M. (2022). Reducing detection limit
 Enhancing detection limits of thin film optical sensors using wavelet denoising and Fourier analysis.
 
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src = "Figures/.png" width = "500" /> 
+<!-- &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src = "Figures/.png" width = "500" /> 
 
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src = "Figures/.png" width = "800" /> 
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src = "Figures/.png" width = "800" /> -->
 
 ***
 ### 2. Detection Limit
