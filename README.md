@@ -35,7 +35,7 @@ Enhancing detection limits of thin film optical sensors using wavelet denoising 
 ***
 ## 2. Experimental Data
 ### 2.1 Porous Silicon
-Porous Silicon (PSi) is silicon with nanostructured pores, which have been electrochemically etched using hydrofluoric acid. Below are shown some images on the scale of a few nanometres taken using an electron microscope, and and illustration of how molecules are captured and detected optically in the pores.
+Porous Silicon (PSi) is silicon with nanostructured pores, which have been electrochemically etched using hydrofluoric acid. Below are shown some images on the scale of a few nanometres taken using an electron microscope, and an illustration of how molecules are captured and detected optically in the pores.
 
 ![](https://github.com/SimonJWard/Response-Time-Reduction/blob/main/Figures/PorousSilicon.gif)
 
