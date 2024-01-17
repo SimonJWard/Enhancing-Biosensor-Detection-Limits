@@ -1,6 +1,6 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src = "Figures/OverviewFigure.png" width = "600" />
 
-# Enhancing-Detection-Limits
+# Enhancing-Biosensor-Detection-Limits
 ***
 For full details, see the following publications:
 
