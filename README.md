@@ -69,7 +69,7 @@ Porous Silicon (PSi) is silicon with nanostructured pores, which have been elect
 ## 6. Open Source App 
 For information regarding the open source app implementation of the Morlet wavelet phase method, see the [github repository](https://github.com/WeissGroupVanderbilt/MorletWaveletPhaseApp?tab=readme-ov-file#morlet-wavelet-phase-application) or [Weiss group website](https://my.vanderbilt.edu/vuphotonics/resources). The app can be downloaded from the github [landing page](https://weissgroupvanderbilt.github.io/MorletWaveletPhaseApp/) or from the [Matlab file exchange](https://www.mathworks.com/matlabcentral/fileexchange/95968-morlet-wavelet-phase/).
 
-<img src = "Figures/mainUI.png" width = "900" />
+&emsp;&emsp;&emsp;&emsp;<img src = "Figures/mainUI.png" width = "900" />
 
 ***
 ### 6.1 Test Data Set
