@@ -10,7 +10,7 @@ Ward, S. J., Cao, T., Chang, C., & Weiss, S. M. (2022). Reducing detection limit
 
 ***
 ## Table of Contents
-### 1. Motivation
+### 1. Overview
 ### 2. Detection Limit
 ### 3. Signal Processing Approaches
 <!-- #### 3.1 Reflectometric Inteferometric Fourier Transform Spectroscopy (RIFTS)
@@ -24,10 +24,13 @@ Ward, S. J., Cao, T., Chang, C., & Weiss, S. M. (2022). Reducing detection limit
 ### 6. Open Source App 
 ### 7. FAQs
 ***
-## 1. Motivation
+## 1. Overview
 
-Enhancing detection limits of thin film optical sensors using wavelet denoising and Fourier analysis.
+The ultimate detection limits of optical biosensors is often limited by various noise sources, including those introduced by the optical measurement setup. While sophisticated modifications to instrumentation may reduce noise, a simpler approach that can benefit all sensor platforms is the application of signal processing to minimize the deleterious effects of noise.
 
+In this work, we show that applying Fourier analysis and complex Morlet wavelet convolution to Fabry−Pérot interference fringes characteristic of thin film reflectometric biosensors effectively filters out white noise and low-frequency reflectance variations. Subsequent calculations of the average difference in an extracted phase between the filtered analyte and reference signals enable a significant reduction in the limit of detection (LOD).
+
+This method is applied on experimental data sets of thin film porous silicon sensors (PSi) in buffered solution and complex media obtained from two different laboratories. The demonstrated improvement in the LOD achieved using wavelet convolution and average phase difference paves the way for PSi optical biosensors to operate with clinically relevant detection limits for medical diagnostics, environmental monitoring, and food safety.
 
 <!-- &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src = "Figures/.png" width = "500" /> 
 
@@ -36,6 +39,11 @@ Enhancing detection limits of thin film optical sensors using wavelet denoising 
 
 ***
 ## 2. Detection Limit
+The LOD of a biosensor is the minimum concentration or number of molecules that can be reliably detected. A normal distribution of measurements can be built up both before and after biomolecule exposure, termed as the blank and shifted distributions, respectively. The LOD is typically quantified as the concentration of the target molecule leading to a response such that the lower bound of the highest 5% of the blank distribution, which lies at 1.65 standard deviations above the mean, coincides with the upper bound of the lowest 5% of the shifted distribution, which lies at 1.65 below the mean. Equivalently stated
+
+$$\left(μ_{shift} − μ_{blank} = 1.65σ_{blank} + 1.65σ_{shift} ≈ 3.3σ_{blank}\right)$$ 
+
+where $μ_{blank}$ and $μ_{shift}$ are the mean of the blank and shifted distributions, respectively, and $σ_{blank}$ and $σ_{shift}$ are the standard deviations of the blank and shifted distributions, respectively. The standard deviations are typically assumed to be approximately equal.
 
 ***
 ## 3. Signal Processing Approaches
