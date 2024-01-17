@@ -22,8 +22,7 @@ Ward, S. J., Cao, T., Chang, C., & Weiss, S. M. (2022). Reducing detection limit
 <!--#### 5.2 Data Collection @ Vanderbilt (Nashville, TN)
 #### 5.3 Data Collection @ Technion (Haifa, Israel) -->
 ### 6. Open Source App 
-### 5. FAQs
-### 6. Acknowledgements
+### 7. FAQs
 ***
 ## 1. Motivation
 
@@ -84,6 +83,6 @@ The resulting exported figure from the Morlet wavelet phase analysis app can be 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src = "Figures/MorletWaveletPhaseResultPlot.png" width = "500" />
 
 ***
-## 5. FAQs
+## 7. FAQs
 
 ***
