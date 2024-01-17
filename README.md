@@ -13,14 +13,14 @@ Ward, S. J., Cao, T., Chang, C., & Weiss, S. M. (2022). Reducing detection limit
 ### 1. Motivation
 ### 2. Detection Limit
 ### 3. Signal Processing Approaches
-#### 3.1 Reflectometric Inteferometric Fourier Transform Spectroscopy (RIFTS)
+<!-- #### 3.1 Reflectometric Inteferometric Fourier Transform Spectroscopy (RIFTS)
 #### 3.2 Interferometer Average over Wavelength (IAW)
-#### 3.3 Morlet Wavelet Phase Method
+#### 3.3 Morlet Wavelet Phase Method -->
 ### 4. Simulated Data
 ### 5. Experimental Data
 #### 5.1 Porous Silicon
-#### 5.2 Data Collection @ Vanderbilt (Nashville, TN)
-#### 5.3 Data Collection @ Technion (Haifa, Israel)
+<!--#### 5.2 Data Collection @ Vanderbilt (Nashville, TN)
+#### 5.3 Data Collection @ Technion (Haifa, Israel) -->
 ### 6. Open Source App 
 ### 5. FAQs
 ### 6. Acknowledgements
@@ -40,7 +40,7 @@ Enhancing detection limits of thin film optical sensors using wavelet denoising 
 
 ***
 ## 3. Signal Processing Approaches
-
+<!--
 ***
 ### 3.1 Reflectometric Inteferometric Fourier Transform Spectroscopy (RIFTS)
 
@@ -50,7 +50,7 @@ Enhancing detection limits of thin film optical sensors using wavelet denoising 
 ***
 ### 3.3 Morlet Wavelet Phase Method
 
-***
+*** -->
 ## 4. Simulated Data
 
 ***
@@ -60,12 +60,12 @@ Porous Silicon (PSi) is silicon with nanostructured pores, which have been elect
 
 ![](https://github.com/SimonJWard/Response-Time-Reduction/blob/main/Figures/PorousSilicon.gif)
 ***
-### 5.2 Data Collection @ Vanderbilt (Nashville, TN)
+<!-- ### 5.2 Data Collection @ Vanderbilt (Nashville, TN)
 
 ***
 ### 5.3 Data Collection @ Technion (Haifa, Israel)
 
-***
+*** -->
 ## 6. Open Source App 
 For information regarding the open source app implementation of the Morlet wavelet phase method, see the [github repository](https://github.com/WeissGroupVanderbilt/MorletWaveletPhaseApp?tab=readme-ov-file#morlet-wavelet-phase-application) or [Weiss group website](https://my.vanderbilt.edu/vuphotonics/resources). The app can be downloaded from the github [landing page](https://weissgroupvanderbilt.github.io/MorletWaveletPhaseApp/) or from the [Matlab file exchange](https://www.mathworks.com/matlabcentral/fileexchange/95968-morlet-wavelet-phase/).
 
